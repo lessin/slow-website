@@ -1,0 +1,14 @@
+timezone: America/Los_Angeles
+url: https://www.fin.com
+site_name: www.fin.com
+permalink: /posts/:title/
+google_analytics_account: "UA-70432631-4"
+twitter_username: finexploration
+plugins_dir: ./_plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+whitelist:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+highligher: pygments

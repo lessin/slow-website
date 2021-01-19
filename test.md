@@ -4,8 +4,6 @@ title: "Sam Lessin - Annual Letter 2020 / 2021"
 highlight: ""
 ---
 
-<img src="https://swl-public.s3.us-west-1.amazonaws.com/home.jpg" width="500" height="600">
-
 
 
 At the end of each year I try to find time to reflect on the year gone-by, and consider what I learned that can inform how I live and work in the upcoming year.  

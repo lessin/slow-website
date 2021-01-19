@@ -1,5 +1,5 @@
 ---
-layout: sidebar_topics
+layout: sidebar
 title: "Sam Lessin - Annual Letter 2020 / 2021"
 highlight: ""
 ---
